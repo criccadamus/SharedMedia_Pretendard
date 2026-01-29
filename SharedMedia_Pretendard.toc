@@ -1,0 +1,28 @@
+## Interface: 11508, 11507, 20505, 30405, 38000, 40402, 50503, 50502, 120001, 110207, 120000
+## Version: @project-version@
+## Title: SharedMedia_Pretendard
+## Author: criccadamus
+## Notes: Add the Pretendard fonts to SharedMedia addons.
+## Notes-esES: Add the Pretendard fonts to SharedMedia addons.
+## Notes-esMX: Add the Pretendard fonts to SharedMedia addons.
+## Notes-zhCN: Add the Pretendard fonts to SharedMedia addons.
+## Notes-zhTW: Add the Pretendard fonts to SharedMedia addons.
+## Notes-deDE: Add the Pretendard fonts to SharedMedia addons.
+## Notes-frFR: Add the Pretendard fonts to SharedMedia addons.
+## Notes-itIT: Add the Pretendard fonts to SharedMedia addons.
+## Notes-koKR: Add the Pretendard fonts to SharedMedia addons.
+## Notes-ptBR: Add the Pretendard fonts to SharedMedia addons.
+## Notes-ruRU: Add the Pretendard fonts to SharedMedia addons.
+
+## X-Category: Miscellaneous
+## X-Website: https://github.com/criccadamus/SharedMedia_Pretendard
+## X-License: Original project line (SharedMedia_Noto): "All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else."
+## X-Wago-ID: rN4kJYGD
+## OptionalDeps: LibSharedMedia-3.0
+## X-Embeds: LibSharedMedia-3.0
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
+
+SharedMedia_Pretendard.lua
