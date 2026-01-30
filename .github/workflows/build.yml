@@ -1,9 +1,10 @@
 name: Package addon
 
 on:
+  workflow_dispatch:
   push:
     tags:
-      - '*'
+      - "*"
 
 permissions:
   contents: write
@@ -12,7 +13,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     concurrency:
-        group: packager
+      group: packager
 
     steps:
       - name: Checkout addon
