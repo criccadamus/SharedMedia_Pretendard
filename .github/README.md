@@ -2,7 +2,7 @@
 
 - Add the Pretendard fonts to `libsharedmedia`-compatible addons.
 
-![Details example](images/details-example.png)
+![Details example](../images/details-example.png)
 
 ## Pretendard?
 
